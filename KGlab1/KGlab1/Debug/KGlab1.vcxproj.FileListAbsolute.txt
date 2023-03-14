@@ -1,0 +1,3 @@
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\Debug\KGlab1.MyForm.resources
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\Debug\KGlab1.vcxproj.GenerateResource.cache
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\Debug\KGlab1.vcxproj.AssemblyReference.cache

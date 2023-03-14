@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\MyForm.h(310,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\MyForm.h(311,1): warning C4244: *=: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\MyForm.h(322,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\MyForm.h(347,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\MyForm.h(395,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Raccoon\source\repos\KGlab1\KGlab1\MyForm.h(418,22): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KGlab1.vcxproj -> C:\Users\Raccoon\source\repos\KGlab1\Debug\KGlab1.exe
